@@ -1,0 +1,29 @@
+@charset "UTF-8";
+body{
+	background-size: cover;
+}
+h1{
+	text-align: center;
+	font-size: 60px;
+}
+p{
+	text-align: center;
+	font-size: 40px;
+	line-height: 350px;
+	}
+a{
+	
+text-decoration-line: none;
+	color:blue;
+	
+}
+a:visited{
+	color: purple;
+}
+	
+
+a:hover{
+	text-decoration: underline;
+	color:green;
+	
+	}
