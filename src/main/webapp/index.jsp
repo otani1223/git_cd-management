@@ -4,10 +4,11 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>CD管理</title>
+<title>CD管理</title> 
+<link rel="stylesheet" href="CSS/top.css">
 </head>
 <body>
 <h1>トップメニュー</h1>
-	<a href="RegisterCdServlet">CD登録</a><br>
+	<p><a href="RegisterCdServlet">CD登録</a></p><br>
 </body>
 </html>
