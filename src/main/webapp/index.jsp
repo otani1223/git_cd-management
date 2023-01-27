@@ -5,10 +5,14 @@
 <head>
 <meta charset="UTF-8">
 <title>CD管理</title> 
-<link rel="stylesheet" href="CSS/top.css">
+<link rel="stylesheet" href="CSS/login.css">
 </head>
 <body>
-<h1>トップメニュー</h1>
-	<p><a href="RegisterCdServlet">CD登録</a></p><br>
+
+
+<form action="LoginServlet" method="post">
+<h1>ログイン画面</h1>
+	<p><input type="submit" value="ログインはこちらから" style="font-size: 30px"></p>
+</form>
 </body>
 </html>

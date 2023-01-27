@@ -9,7 +9,7 @@ h1{
 p{
 	text-align: center;
 	font-size: 40px;
-	line-height: 350px;
+	line-height: 30px;
 	}
 a{
 	
@@ -25,5 +25,4 @@ a:visited{
 a:hover{
 	text-decoration: underline;
 	color:green;
-	
 	}
