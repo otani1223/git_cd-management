@@ -26,7 +26,7 @@ public class CdDAO {
 	}
 	
 	public static int registerCd(Cd cd) {
-		String sql = "INSERT INTO Cd VALUES(?, ?, ?)";
+		String sql = "INSERT INTO Cd VALUES(default, ?, ?, ?)";
 		int result = 0;
 				
 		try (
